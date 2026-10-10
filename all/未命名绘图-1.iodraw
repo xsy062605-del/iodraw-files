@@ -112,8 +112,11 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-111" value="包含" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-112" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-112" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="148.45999999999998" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-113" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="148.45999999999998" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
