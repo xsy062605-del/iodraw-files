@@ -92,7 +92,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="70" height="140" as="geometry" />
+          <mxGeometry x="230" y="270" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="270" width="70" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
