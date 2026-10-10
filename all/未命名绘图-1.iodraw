@@ -107,7 +107,10 @@
           <mxGeometry x="530" y="148.46" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-110" value="下单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="60" height="20" as="geometry" />
+          <mxGeometry x="345" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-111" value="发布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
