@@ -1,0 +1,367 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Spi49L1lsntpq5hMC8b_">
+    <mxGraphModel dx="3432" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-197" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="60" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-198" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="160" as="sourcePoint" />
+            <mxPoint x="299.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-199" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200.5" y="160" as="sourcePoint" />
+            <mxPoint x="800.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-200" value="短信管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-201" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-203" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="260" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.5" y="260" as="sourcePoint" />
+            <mxPoint x="260.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-205" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-206" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-207" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="280" as="sourcePoint" />
+            <mxPoint x="260" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-208" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="280" as="sourcePoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-209" value="接收短信" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-214" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-215" value="发送短信" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-216" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-217" value="文件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-218" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-219" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-220" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="260" as="sourcePoint" />
+            <mxPoint x="460.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-221" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="380" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-222" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-223" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-224" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="280" as="sourcePoint" />
+            <mxPoint x="340" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-225" value="文件浏览" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-226" value="文件新建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-227" value="文件移动" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-228" value="文件删除" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-229" value="通讯录管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-230" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-231" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="260" as="sourcePoint" />
+            <mxPoint y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-232" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60.5" y="260" as="sourcePoint" />
+            <mxPoint x="60.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-233" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="280" as="sourcePoint" />
+            <mxPoint x="-20" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-234" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="280" as="sourcePoint" />
+            <mxPoint x="20" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-235" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-236" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="280" as="sourcePoint" />
+            <mxPoint x="-60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-237" value="新增联系人" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-238" value="编辑联系人" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-239" value="搜索联系人" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-240" value="联系人分组管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-241" value="通话管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-242" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="200" as="sourcePoint" />
+            <mxPoint x="-200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-243" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="260" as="sourcePoint" />
+            <mxPoint x="-200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-244" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260.5" y="260" as="sourcePoint" />
+            <mxPoint x="-139.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-245" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="280" as="sourcePoint" />
+            <mxPoint x="-220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-246" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="280" as="sourcePoint" />
+            <mxPoint x="-180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-247" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="280" as="sourcePoint" />
+            <mxPoint x="-140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-248" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="280" as="sourcePoint" />
+            <mxPoint x="-260" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-249" value="拨打电话" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-250" value="接通电话" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-251" value="通话录音" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-252" value="通话保留" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-253" value="网络管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-254" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-255" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="260" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-256" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.5" y="260" as="sourcePoint" />
+            <mxPoint x="660.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-257" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-258" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-259" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="280" as="sourcePoint" />
+            <mxPoint x="660" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-260" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-261" value="WIFI链接" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-262" value="移动数据开关" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-263" value="热点共享" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-264" value="网络测速" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-265" value="App管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-266" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="200" as="sourcePoint" />
+            <mxPoint x="800" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-267" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="260" as="sourcePoint" />
+            <mxPoint x="800" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-268" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="739.5" y="260" as="sourcePoint" />
+            <mxPoint x="860.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-269" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="280" as="sourcePoint" />
+            <mxPoint x="780" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-270" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="280" as="sourcePoint" />
+            <mxPoint x="820" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-271" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="280" as="sourcePoint" />
+            <mxPoint x="860" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-272" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="280" as="sourcePoint" />
+            <mxPoint x="740" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-273" value="App安装" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-274" value="App卸载" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-275" value="App权限管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3TgXVV2u4ScEfRMl9VE1-276" value="App更新" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="40" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
