@@ -40,8 +40,8 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-42" value="+ create(): void&lt;div&gt;+ cancel(): void&lt;/div&gt;&lt;div&gt;+ confirm(): void&lt;/div&gt;&lt;div&gt;+ getStatus(): String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-39">
           <mxGeometry y="158" width="190" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-44" value="Item" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="190" height="210" as="geometry" />
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-44" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-45" value="- itemId: String&lt;div&gt;- title: String&lt;/div&gt;&lt;div&gt;- price: double&lt;/div&gt;&lt;div&gt;- category: String&lt;/div&gt;&lt;div&gt;- status: String&lt;/div&gt;&lt;div&gt;- image: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-44">
           <mxGeometry y="26" width="190" height="94" as="geometry" />
