@@ -52,7 +52,7 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-92" value="item:Item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="129.47" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-93" value="studentId=20240001&lt;div&gt;name=学生&lt;/div&gt;&lt;div&gt;phone=13356718901&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-93" value="itemId=ITEM001&lt;div&gt;title=高等数学A&lt;/div&gt;&lt;div&gt;status=在售&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="174.47" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRQHeGe4x3FFuhEdB1BE-90" target="PRQHeGe4x3FFuhEdB1BE-90">
