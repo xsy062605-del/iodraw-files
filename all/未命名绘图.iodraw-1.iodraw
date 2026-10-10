@@ -1,0 +1,31 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="dnlOfzsfQ_0LDDeeA0_m">
+    <mxGraphModel dx="1339" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-2" value="ping.py" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-13" value="ping" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="160" width="290" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-14" value="&lt;div&gt;target_host: 目标主机名或 IP。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;count: 发送次数（支持 float(&#39;inf&#39;)）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;timeout: 超时时间（秒）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;size: 数据包大小。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;resolve_hostname: 是否反向解析域名。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dest_addr: (新增) 解析后的目标 IP 地址，避免重复解析。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;icmp_id: (新增) 进程 ID，用于标识 ICMP 包&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1ZcxaJH_FYxm95sjxFyD-13">
+          <mxGeometry y="26" width="290" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1ZcxaJH_FYxm95sjxFyD-13">
+          <mxGeometry y="240" width="290" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-16" value="&lt;div&gt;__init__(self, host, count=4, ...): 初始化配置。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;resolve_host(self): 封装 DNS 解析和打印 &quot;Pinging...&quot; 的逻辑。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;create_socket(self): 封装 Raw Socket 的创建和权限检查。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;build_packet(self, seq_num): 对应原代码中的 create_icmp_packet 调用及 Payload 生成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;send_and_receive(self): 核心的单次 Ping 逻辑（包含 sendto, recvfrom, 计时, 解析 TTL）。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;print_statistics(self): 最后的统计打印逻辑。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1ZcxaJH_FYxm95sjxFyD-13">
+          <mxGeometry y="248" width="290" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZcxaJH_FYxm95sjxFyD-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25.5" y="160" as="sourcePoint" />
+            <mxPoint x="-25" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
