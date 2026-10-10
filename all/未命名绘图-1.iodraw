@@ -91,11 +91,14 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-62" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRQHeGe4x3FFuhEdB1BE-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="280" as="sourcePoint" />
-            <mxPoint x="420" y="230" as="targetPoint" />
+            <mxPoint x="190" y="326" as="sourcePoint" />
+            <mxPoint x="240" y="276" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-64" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
