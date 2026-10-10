@@ -49,8 +49,8 @@
             <mxPoint x="720" y="149.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-92" value="item：Item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="615" y="129.47" width="60" height="30" as="geometry" />
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-92" value="item:Item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="129.47" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-93" value="studentId=20240001&lt;div&gt;name=学生&lt;/div&gt;&lt;div&gt;phone=13356718901&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="174.47" width="60" height="30" as="geometry" />
