@@ -34,7 +34,7 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-87" value="xuesheng2:Student" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="129.47" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-88" value="studentId=20240002&lt;div&gt;name=学生2&lt;/div&gt;&lt;div&gt;phone=133563768901&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-88" value="studentId=20240002&lt;div&gt;name=学生2&lt;/div&gt;&lt;div&gt;phone=13563768901&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="174.47" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PRQHeGe4x3FFuhEdB1BE-85" target="PRQHeGe4x3FFuhEdB1BE-85">
