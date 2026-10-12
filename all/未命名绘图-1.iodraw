@@ -19,10 +19,10 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-16" value="订单" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="880" y="-1120" width="80" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-17" value="click（’发起交易‘）" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-13">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-17" value="click（’发起交易‘）" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="120" y="-1040" as="sourcePoint" />
-            <mxPoint x="280" y="-1040" as="targetPoint" />
+            <mxPoint x="120" y="-1050" as="sourcePoint" />
+            <mxPoint x="319.5" y="-1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-18" value="click（’发起交易‘）" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
