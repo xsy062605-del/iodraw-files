@@ -39,6 +39,9 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-132" source="PRQHeGe4x3FFuhEdB1BE-137" target="PRQHeGe4x3FFuhEdB1BE-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-149" value="选择“发布物品”" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="86" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
