@@ -70,7 +70,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-27" value="getItemInfo(itemId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-27" value="createOrder(seller, buyer)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-16">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="520" y="-970.53" as="sourcePoint" />
             <mxPoint x="720" y="-970.53" as="targetPoint" />
