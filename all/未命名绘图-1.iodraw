@@ -200,7 +200,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-126" value="insertOrder()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="-850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-127" value="queryItem()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-127" value="queryOrder()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="-817.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-128" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
