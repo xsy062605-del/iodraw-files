@@ -25,7 +25,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-206" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="80" y="-2155" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-208" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-208" value="在售&lt;div&gt;物品可被购买&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
