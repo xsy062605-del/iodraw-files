@@ -52,10 +52,16 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-263" value="[TCP/IP, MySQL协议]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="-1025" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-265" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-265" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.182;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-248">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="-940" as="sourcePoint" />
             <mxPoint x="490" y="-990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-266" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.182;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="-930" as="sourcePoint" />
+            <mxPoint x="482" y="-969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
