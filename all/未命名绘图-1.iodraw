@@ -37,8 +37,8 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-224" value="发布物品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="-2282" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-226" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-2292" width="50" height="30" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-226" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="-2292" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
