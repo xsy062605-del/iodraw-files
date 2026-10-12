@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9Xf3mUBPfOcwU1BjhzZI">
-    <mxGraphModel dx="354" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,13 +48,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="520" y="-970.37" as="sourcePoint" />
             <mxPoint x="720" y="-970.37" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-23" value="Order{status=待付款}" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="729.5" y="-980" as="sourcePoint" />
-            <mxPoint x="529.7592592592592" y="-980" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
