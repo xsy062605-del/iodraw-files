@@ -1,87 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9Xf3mUBPfOcwU1BjhzZI">
-    <mxGraphModel dx="1374" dy="3992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FuiC1mqrQxmEocyZUha1-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-199" target="FuiC1mqrQxmEocyZUha1-200">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-199" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-2270" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-200" target="FuiC1mqrQxmEocyZUha1-208">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-200" target="FuiC1mqrQxmEocyZUha1-212">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-200" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-2280" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-206" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-2220" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-208" target="FuiC1mqrQxmEocyZUha1-213">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-208" target="FuiC1mqrQxmEocyZUha1-210">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-208" value="在售&lt;div&gt;物品可被购买&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-2280" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-210" target="FuiC1mqrQxmEocyZUha1-214">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF120A;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-210" target="FuiC1mqrQxmEocyZUha1-206">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-210" value="交易中&lt;div&gt;已有买家下单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-2280" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-212" target="FuiC1mqrQxmEocyZUha1-200">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-212" value="审核未通过&lt;div&gt;&amp;nbsp;需修改后重新提交&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-2160" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-213" value="已下架&lt;div&gt;卖家主动下架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-2160" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-214" target="FuiC1mqrQxmEocyZUha1-206">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-214" value="已售出&lt;div&gt;交易完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-2160" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-224" value="发布物品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="-2282" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-226" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-2282" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-230" value="审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-2210" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-231" value="修改后重新提交" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-2210" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-233" value="卖家下架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="-2212" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-235" value="买家下单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="-2282" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-237" value="确认交易" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="625" y="-2210" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-239" value="取消交易" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-2282" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-241" value="交易完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-2132" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
