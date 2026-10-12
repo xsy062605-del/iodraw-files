@@ -10,9 +10,6 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-200" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2280" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-201" value="&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;wu&#39;pin%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BE%85%E5%AE%A1%E6%A0%B8%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22-2220%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-2280" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-202" value="交易中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-2330" width="80" height="40" as="geometry" />
         </mxCell>
@@ -27,6 +24,9 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-206" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="80" y="-2155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-208" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
