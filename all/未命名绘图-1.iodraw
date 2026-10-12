@@ -33,27 +33,27 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-19" value="getItemInfo(itemId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="-1010" as="sourcePoint" />
-            <mxPoint x="720" y="-1010" as="targetPoint" />
+            <mxPoint x="520.37" y="-990" as="sourcePoint" />
+            <mxPoint x="720.37" y="-990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-20" value="ItemInfo{status=在售}" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="719.5" y="-990" as="sourcePoint" />
-            <mxPoint x="519.7592592592592" y="-990" as="targetPoint" />
+            <mxPoint x="719.87" y="-970" as="sourcePoint" />
+            <mxPoint x="520.1292592592592" y="-970" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-22" value="updateStatus(&#39;交易中&#39;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="-920" as="sourcePoint" />
-            <mxPoint x="719.5" y="-920" as="targetPoint" />
+            <mxPoint x="520.37" y="-900" as="sourcePoint" />
+            <mxPoint x="719.87" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-24" value="更新成功" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="719.74" y="-900" as="sourcePoint" />
-            <mxPoint x="519.9992592592592" y="-900" as="targetPoint" />
+            <mxPoint x="720.11" y="-880" as="sourcePoint" />
+            <mxPoint x="520.3692592592593" y="-880" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -70,16 +70,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-27" value="createOrder(seller, buyer)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-16">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-27" value="createOrder(seller, buyer)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="-970.53" as="sourcePoint" />
-            <mxPoint x="720" y="-970.53" as="targetPoint" />
+            <mxPoint x="520.37" y="-950.53" as="sourcePoint" />
+            <mxPoint x="919.87" y="-950.5299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-28" value="Order{status=待付款}" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-16">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-28" value="Order{status=待付款}" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="719.74" y="-950" as="sourcePoint" />
-            <mxPoint x="519.9992592592592" y="-950" as="targetPoint" />
+            <mxPoint x="919.87" y="-929.9999999999999" as="sourcePoint" />
+            <mxPoint x="520.3692592592593" y="-930" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
