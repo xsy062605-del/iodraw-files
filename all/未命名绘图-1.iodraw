@@ -47,7 +47,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-50" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="290" y="-960" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-57" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-57" value="交易服务组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="-850" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-57">
@@ -67,7 +67,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-62" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="80" y="-780" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-63" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-63" value="数据库组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="-850" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-64" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-63">
