@@ -57,7 +57,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-25" value="updateStatus(&#39;交易中&#39;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-25" value="orderResult(success)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="520" y="-880" as="sourcePoint" />
             <mxPoint x="719.5" y="-880" as="targetPoint" />
