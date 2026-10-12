@@ -46,14 +46,14 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-22" value="updateStatus(&#39;交易中&#39;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520.25" y="-879.47" as="sourcePoint" />
-            <mxPoint x="719.75" y="-879.47" as="targetPoint" />
+            <mxPoint x="520.25" y="-870" as="sourcePoint" />
+            <mxPoint x="719.75" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-24" value="更新成功" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="719.99" y="-859.47" as="sourcePoint" />
-            <mxPoint x="520.2492592592592" y="-859.47" as="targetPoint" />
+            <mxPoint x="719.99" y="-840" as="sourcePoint" />
+            <mxPoint x="520.2492592592592" y="-840" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-28" value="Order{status=待付款}" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0013" width="160" relative="1" as="geometry">
-            <mxPoint x="919.75" y="-909.4699999999999" as="sourcePoint" />
-            <mxPoint x="520.2492592592592" y="-909.47" as="targetPoint" />
+            <mxPoint x="919.75" y="-899.9999999999999" as="sourcePoint" />
+            <mxPoint x="520.2492592592592" y="-900" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
