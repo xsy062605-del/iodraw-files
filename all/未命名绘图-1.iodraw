@@ -271,7 +271,7 @@
           <mxGeometry x="440" y="-740" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-177" value="数据库组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-842.5" width="180" height="132.5" as="geometry" />
+          <mxGeometry x="440" y="-842.5" width="180" height="192.5" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-178" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-177">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -295,6 +295,9 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-186" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="-747.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-188" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-730" width="10" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
