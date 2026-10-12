@@ -28,9 +28,9 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-123" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;TradeManager&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+createOrder()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+cancelOrder()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;+trackOrder()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-119">
           <mxGeometry x="50" y="50" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-124" value="&amp;lt;&amp;lt;keyword&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-124" value="&amp;lt;&amp;lt;keyword&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" target="PRQHeGe4x3FFuhEdB1BE-116">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="20" as="sourcePoint" />
+            <mxPoint x="450" y="140" as="sourcePoint" />
             <mxPoint x="510" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
