@@ -25,7 +25,7 @@
             <mxPoint x="319.5" y="-1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-18" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: normal; background-color: rgba(34, 34, 34, 0.06);&quot;&gt;checkItemStatus(itemId)&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-18" value="checkItemStatus(itemId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="320" y="-1030" as="sourcePoint" />
             <mxPoint x="520" y="-1030" as="targetPoint" />
