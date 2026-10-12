@@ -13,7 +13,7 @@
           <mxGeometry y="20" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-136" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-133">
-          <mxGeometry x="70" y="40" width="20" height="20" as="geometry" />
+          <mxGeometry x="65" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-137" value="登陆系统" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-133">
           <mxGeometry x="50" y="80" width="60" height="30" as="geometry" />
