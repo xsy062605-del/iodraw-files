@@ -28,6 +28,9 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-210" value="交易中&lt;div&gt;已有买家下单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-2280" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-212" target="FuiC1mqrQxmEocyZUha1-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-212" value="审核未通过&lt;div&gt;&amp;nbsp;需修改后重新提交&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2160" width="120" height="50" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-226" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="-2282" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-230" value="审核不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-2222" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
