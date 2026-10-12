@@ -47,25 +47,45 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-50" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="290" y="-960" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-51" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-850" width="180" height="90" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-57" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-850" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-52" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-51">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-57">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-53" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-972.5" width="10" height="15" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-59" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-812.5" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-54" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-940" width="10" height="15" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-60" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-780" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-55" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-972.5" width="10" height="15" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-61" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-812.5" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-56" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-940" width="10" height="15" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-62" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-780" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-63" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-990" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-64" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-63">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-65" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-952.5" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-66" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-920" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-67" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-952.5" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-68" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-920" width="10" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
