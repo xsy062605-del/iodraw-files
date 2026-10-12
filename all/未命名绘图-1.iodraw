@@ -27,7 +27,7 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-142" value="选择发布物品" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="14" y="40" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-145" value="选择发布物品" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-145" value="填写物品信息" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="14" y="80" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-135" value="数据库" style="swimlane;startSize=20;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-132">
