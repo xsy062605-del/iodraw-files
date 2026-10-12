@@ -14,22 +14,19 @@
           <mxGeometry x="155" y="-1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-247" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="401" y="-1120" width="249" height="260" as="geometry" />
+          <mxGeometry x="370" y="-1120" width="280" height="270" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-248" value="Spring Boot 后端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465.5" y="-1020" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="-1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-249" value="应用服务器&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;CentOs 7&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470.5" y="-1100" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-250" target="FuiC1mqrQxmEocyZUha1-248">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="455" y="-1100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-250" value="Nginx 反向代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="-950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-251" value="Redis 缓存服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-962" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-252" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="-1120" width="180" height="220" as="geometry" />
