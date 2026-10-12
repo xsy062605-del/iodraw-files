@@ -12,11 +12,14 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-133" value="学生" style="swimlane;startSize=20;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-132">
           <mxGeometry y="20" width="160" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-133" source="PRQHeGe4x3FFuhEdB1BE-136" target="PRQHeGe4x3FFuhEdB1BE-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-136" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-133">
           <mxGeometry x="10" y="30" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-137" value="登陆系统" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-133">
-          <mxGeometry x="10" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-134" value="系统" style="swimlane;startSize=20;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-132">
           <mxGeometry x="160" y="20" width="130" height="140" as="geometry" />
