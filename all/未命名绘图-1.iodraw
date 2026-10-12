@@ -31,7 +31,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-252" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="-1120" width="180" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-253" value="Spring Boot 后端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-253" value="MySQL 8.0 服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="-1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-254" value="数据库服务器&lt;div&gt;（CentOS 7）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
