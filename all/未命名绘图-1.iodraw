@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FuiC1mqrQxmEocyZUha1-199" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-2275" width="30" height="30" as="geometry" />
+          <mxGeometry x="80" y="-2270" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-200" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2280" width="120" height="50" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-214" value="已售出&lt;div&gt;交易完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-2160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-215" value="发布物品" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-200">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-215" value="发布物品" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-199" target="FuiC1mqrQxmEocyZUha1-200">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="110" y="-2260.5" as="sourcePoint" />
             <mxPoint x="190" y="-2260" as="targetPoint" />
