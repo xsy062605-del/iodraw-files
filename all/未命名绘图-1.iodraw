@@ -67,8 +67,8 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-235" value="买家下单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="-2282" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-237" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="-2212" width="50" height="30" as="geometry" />
+        <mxCell id="FuiC1mqrQxmEocyZUha1-237" value="确认交易" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-2212" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
