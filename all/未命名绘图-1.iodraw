@@ -34,7 +34,7 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-210" target="FuiC1mqrQxmEocyZUha1-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-210" target="FuiC1mqrQxmEocyZUha1-206">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF120A;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-210" target="FuiC1mqrQxmEocyZUha1-206">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-210" value="交易中&lt;div&gt;已有买家下单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-213" value="已下架&lt;div&gt;卖家主动下架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-2160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-214" target="FuiC1mqrQxmEocyZUha1-206">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-214" value="已售出&lt;div&gt;交易完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-2160" width="120" height="50" as="geometry" />
