@@ -29,16 +29,16 @@
           <mxGeometry x="520" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-252" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-1120" width="180" height="220" as="geometry" />
+          <mxGeometry x="790" y="-1120" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-253" value="MySQL 8.0 服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-1020" width="120" height="40" as="geometry" />
+          <mxGeometry x="820" y="-1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-254" value="数据库服务器&lt;div&gt;（CentOS 7）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="895" y="-1100" width="110" height="50" as="geometry" />
+          <mxGeometry x="825" y="-1100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-255" value="MongDB 文档存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="820" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-244" target="FuiC1mqrQxmEocyZUha1-250">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-263" value="[TCP/IP, MySQL协议]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-1025" width="140" height="30" as="geometry" />
+          <mxGeometry x="650" y="-1025" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-265" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-248">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
