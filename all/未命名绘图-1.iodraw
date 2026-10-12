@@ -25,6 +25,9 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-208" value="在售&lt;div&gt;物品可被购买&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-2280" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-210" value="在售&lt;div&gt;物品可被购买&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-2275" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
