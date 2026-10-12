@@ -28,7 +28,7 @@
           <mxGeometry x="80" y="-970" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-57" value="交易服务组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-850" width="180" height="90" as="geometry" />
+          <mxGeometry x="70" y="-700" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-57">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -159,7 +159,7 @@
           <mxGeometry x="560" y="-1057.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-101" value="authenticate()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-1122.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="560" y="-1122.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
