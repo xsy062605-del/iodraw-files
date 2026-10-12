@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9Xf3mUBPfOcwU1BjhzZI">
-    <mxGraphModel dx="398" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="330" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-6" value="发布成功" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;strokeColor=#0DFF0D;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-135">
           <mxGeometry x="20" y="165" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-9" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-135">
+          <mxGeometry x="50" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-132" source="PRQHeGe4x3FFuhEdB1BE-137" target="PRQHeGe4x3FFuhEdB1BE-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -79,9 +82,6 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-132" source="PRQHeGe4x3FFuhEdB1BE-151" target="FuiC1mqrQxmEocyZUha1-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-9" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="660" y="210" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
