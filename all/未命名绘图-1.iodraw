@@ -30,6 +30,9 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-142" value="选择“发布物品”" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="20" y="80" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-134" source="PRQHeGe4x3FFuhEdB1BE-145" target="PRQHeGe4x3FFuhEdB1BE-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-145" value="填写物品信息&lt;div&gt;（标题、价格、描述）&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="130" y="75" width="120" height="40" as="geometry" />
         </mxCell>
@@ -47,6 +50,9 @@
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PRQHeGe4x3FFuhEdB1BE-132" source="PRQHeGe4x3FFuhEdB1BE-145" target="PRQHeGe4x3FFuhEdB1BE-149">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-153" value="填写物品信息&lt;div&gt;（标题、价格、描述）&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="145" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
