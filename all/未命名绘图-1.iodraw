@@ -27,13 +27,25 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-42" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="80" y="-960" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-43" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-45" value="用户界面组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="-1020" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-44" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-43">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-46" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-45">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-47" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-982.5" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-48" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-950" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-49" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-982.5" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-50" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-950" width="10" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
