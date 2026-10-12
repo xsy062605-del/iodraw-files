@@ -28,7 +28,7 @@
           <mxGeometry x="80" y="-970" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-69" value="用户服务组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-1152.5" width="180" height="132.5" as="geometry" />
+          <mxGeometry x="479" y="-1040" width="180" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-70" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="FuiC1mqrQxmEocyZUha1-69">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -36,16 +36,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-71" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-1115" width="10" height="15" as="geometry" />
+          <mxGeometry x="649" y="-1002.5" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-72" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-1082.5" width="10" height="15" as="geometry" />
+          <mxGeometry x="649" y="-970" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-73" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-1115" width="10" height="15" as="geometry" />
+          <mxGeometry x="479" y="-1002.5" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-74" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-1082.5" width="10" height="15" as="geometry" />
+          <mxGeometry x="479" y="-970" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-75" value="authenticate()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-1010" width="60" height="30" as="geometry" />
@@ -60,13 +60,13 @@
           <mxGeometry x="280" y="-977.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-79" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-1050" width="10" height="15" as="geometry" />
+          <mxGeometry x="649" y="-937.5" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-82" value="queryUser()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-1122.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="-1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-83" value="saveUser()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="-1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="-977.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-84" value="insertItem()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="-998.75" width="60" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="1095" y="-926.25" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-95" value="getUserData()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="679" y="-977.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-96" value="insertItem()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1115" y="-998.75" width="60" height="30" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="925" y="-926.25" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-100" value="updateProfile()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1057.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="679" y="-945" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-101" value="authenticate()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1122.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="679" y="-1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-102" value="insertItem()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="-998.75" width="60" height="30" as="geometry" />
