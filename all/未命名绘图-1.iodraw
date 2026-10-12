@@ -45,7 +45,7 @@
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-153" value="返回修改" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;strokeColor=#FF1C14;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="30" y="165" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PRQHeGe4x3FFuhEdB1BE-156" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
+        <mxCell id="PRQHeGe4x3FFuhEdB1BE-156" value="&lt;font color=&quot;#ff3300&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-134">
           <mxGeometry x="106" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PRQHeGe4x3FFuhEdB1BE-135" value="数据库" style="swimlane;startSize=20;html=1;" vertex="1" parent="PRQHeGe4x3FFuhEdB1BE-132">
