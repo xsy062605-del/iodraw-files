@@ -28,16 +28,16 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-214" value="已售出&lt;div&gt;交易完成&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-2160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-215" value="发布物品" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-208">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-215" value="发布物品" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FuiC1mqrQxmEocyZUha1-200">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="280" y="-2255.5" as="sourcePoint" />
-            <mxPoint x="440" y="-2255.5" as="targetPoint" />
+            <mxPoint x="110" y="-2260.5" as="sourcePoint" />
+            <mxPoint x="190" y="-2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-216" value="发布物品" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="290" y="-2245.5" as="sourcePoint" />
-            <mxPoint x="370" y="-2245" as="targetPoint" />
+            <mxPoint x="280" y="-2190" as="sourcePoint" />
+            <mxPoint x="360" y="-2189.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
