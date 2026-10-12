@@ -23,13 +23,11 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-33" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="-1085" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="FuiC1mqrQxmEocyZUha1-35" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="-1075" as="sourcePoint" />
+            <mxPoint x="75" y="-1075" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-35" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-1085" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
