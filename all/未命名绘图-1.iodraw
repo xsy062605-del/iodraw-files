@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-219" value="审核不通过" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-200" target="FuiC1mqrQxmEocyZUha1-212">
-          <mxGeometry x="-0.0007" y="5" width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.1429" y="-30" width="160" relative="1" as="geometry">
             <mxPoint x="220" y="-2220" as="sourcePoint" />
             <mxPoint x="300" y="-2219.5" as="targetPoint" />
             <mxPoint as="offset" />
