@@ -115,7 +115,7 @@
           <mxGeometry x="550" y="-1090" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-86" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1057.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="620" y="-933.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-87" value="物品服务组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="705" y="-1028.75" width="180" height="132.5" as="geometry" />
