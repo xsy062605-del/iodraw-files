@@ -25,7 +25,7 @@
           <mxGeometry x="80" y="-1002.5" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-42" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-970" width="10" height="15" as="geometry" />
+          <mxGeometry x="80" y="-970" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-45" value="物品服务组件" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560" y="-1100" width="180" height="90" as="geometry" />
