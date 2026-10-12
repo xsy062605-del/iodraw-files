@@ -13,6 +13,9 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-200" target="FuiC1mqrQxmEocyZUha1-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-200" target="FuiC1mqrQxmEocyZUha1-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-200" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2280" width="120" height="50" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="85" y="-2282" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-226" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="-2292" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="-2282" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
