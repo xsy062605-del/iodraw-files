@@ -22,6 +22,12 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-212" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-2160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-213" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-2160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-214" value="待审核&lt;div&gt;等待管理员审核&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-2160" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
