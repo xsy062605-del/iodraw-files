@@ -22,14 +22,8 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-249" value="应用服务器&lt;div&gt;（&lt;span style=&quot;background-color: initial;&quot;&gt;CentOs 7&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="436" y="-1100" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-250" target="FuiC1mqrQxmEocyZUha1-248">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="571" y="-940" />
-              <mxPoint x="571" y="-980" />
-              <mxPoint x="551" y="-980" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FuiC1mqrQxmEocyZUha1-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FuiC1mqrQxmEocyZUha1-250" target="FuiC1mqrQxmEocyZUha1-248">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-250" value="Nginx 反向代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="-960" width="120" height="40" as="geometry" />
