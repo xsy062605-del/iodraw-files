@@ -112,7 +112,7 @@
           <mxGeometry x="550" y="-1122.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-85" value="queryItem()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="-1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-86" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="-933.75" width="60" height="30" as="geometry" />
@@ -159,7 +159,7 @@
           <mxGeometry x="705" y="-926.25" width="10" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-100" value="updateUserProfile()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-1057.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="-1057.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
