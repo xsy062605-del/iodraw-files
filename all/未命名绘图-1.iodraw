@@ -21,8 +21,8 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-17" value="Message1 label" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="590" y="-900" as="sourcePoint" />
-            <mxPoint x="750" y="-900" as="targetPoint" />
+            <mxPoint x="340" y="-640" as="sourcePoint" />
+            <mxPoint x="500" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
