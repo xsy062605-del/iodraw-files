@@ -200,11 +200,8 @@
         <mxCell id="FuiC1mqrQxmEocyZUha1-126" value="createOrder()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="-850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-127" value="queryOrder()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FuiC1mqrQxmEocyZUha1-127" value="cancelOrder()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="-817.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-128" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-785" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-129" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="110" y="-777.5" width="10" height="15" as="geometry" />
@@ -231,9 +228,6 @@
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-139" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="280" y="-777.5" width="10" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="FuiC1mqrQxmEocyZUha1-142" value="updateItemdata()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-785" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-143" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=east;" vertex="1" parent="1">
           <mxGeometry x="110" y="-777.5" width="10" height="15" as="geometry" />
