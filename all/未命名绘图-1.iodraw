@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FuiC1mqrQxmEocyZUha1-242" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1060" width="180" height="190" as="geometry" />
+          <mxGeometry x="90" y="-1060" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-244" value="浏览器/Web客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-246" value="用户终端&lt;div&gt;（PC/手机）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="-1040" width="110" height="50" as="geometry" />
+          <mxGeometry x="125" y="-1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-247" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="-1120" width="280" height="270" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="455" y="-1100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-250" value="Nginx 反向代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-950" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-251" value="Redis 缓存服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-960" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FuiC1mqrQxmEocyZUha1-252" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="730" y="-1120" width="180" height="220" as="geometry" />
