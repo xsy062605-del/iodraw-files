@@ -79,6 +79,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-39" value="" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
