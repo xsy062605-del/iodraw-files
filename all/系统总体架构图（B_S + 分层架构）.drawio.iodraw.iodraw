@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-1" value="校园图书借阅管理系统" style="shape=folder;fontStyle=1;tabWidth=140;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="40" width="530" height="360" as="geometry" />
+          <mxGeometry x="-770" y="80" width="530" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-2" value="统计报表" style="html=1;whiteSpace=wrap;" vertex="1" parent="Q_8I15lo8RqxTSxJUNqh-1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
@@ -93,15 +93,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-25" value="被依赖的”基础模块“：&lt;div&gt;提供身份认证与权限能力&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="88" y="440" width="170" height="80" as="geometry" />
+          <mxGeometry x="-592" y="480" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-26" value="被依赖的”数据提供模块“：&lt;br&gt;提供图书与馆藏数据" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="180" height="80" as="geometry" />
+          <mxGeometry x="-380" y="480" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q_8I15lo8RqxTSxJUNqh-25" target="Q_8I15lo8RqxTSxJUNqh-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="470" as="sourcePoint" />
-            <mxPoint x="320" y="420" as="targetPoint" />
+            <mxPoint x="-410" y="510" as="sourcePoint" />
+            <mxPoint x="-360" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
