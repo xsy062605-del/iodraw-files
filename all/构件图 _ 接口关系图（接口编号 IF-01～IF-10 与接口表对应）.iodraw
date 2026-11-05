@@ -95,12 +95,9 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-39" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
-            <mxPoint x="1010" y="350" as="sourcePoint" />
-            <mxPoint x="849" y="350" as="targetPoint" />
+            <mxPoint x="711" y="430" as="sourcePoint" />
+            <mxPoint x="499.0430972450658" y="410" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="1000" y="400" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
