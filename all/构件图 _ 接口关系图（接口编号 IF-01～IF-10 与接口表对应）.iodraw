@@ -157,7 +157,7 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-67" value="[ 可借用副本&amp;gt;0 ]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="560" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.001;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="560" as="sourcePoint" />
             <mxPoint x="90" y="510" as="targetPoint" />
