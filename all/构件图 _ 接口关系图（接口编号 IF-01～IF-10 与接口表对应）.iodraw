@@ -46,7 +46,7 @@
             <mxPoint x="439.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-26" value="CheckPermission(userId, &quot;BORROW&quot;) [IF-03]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0.02;entryY=1.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-29">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-26" value="CheckPermission(userId, &quot;BORROW&quot;) [IF-03]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-29">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="200" as="sourcePoint" />
             <mxPoint x="690" y="200" as="targetPoint" />
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="715" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="725" y="210" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
