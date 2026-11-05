@@ -119,10 +119,10 @@
           <mxGeometry x="965" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-55" value="IBorrow&lt;div&gt;(IF-06)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="320" width="60" height="40" as="geometry" />
+          <mxGeometry x="1300" y="320" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-56" value="IStats&lt;div&gt;(IF-10)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="320" width="60" height="40" as="geometry" />
+          <mxGeometry x="1420" y="320" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
