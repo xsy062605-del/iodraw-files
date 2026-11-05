@@ -28,11 +28,8 @@
             <mxPoint x="640" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="290" width="20" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="270" width="40" height="50" as="geometry" />
+          <mxGeometry x="620" y="150" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
