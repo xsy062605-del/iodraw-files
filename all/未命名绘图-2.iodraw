@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---39" value="触发到书通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="X5XfrKrcIskijDzCVs---2" source="X5XfrKrcIskijDzCVs---8" target="X5XfrKrcIskijDzCVs---12">
-          <mxGeometry x="0.3333" width="160" relative="1" as="geometry">
+          <mxGeometry x="0.3269" width="160" relative="1" as="geometry">
             <mxPoint x="190" y="120" as="sourcePoint" />
             <mxPoint x="190" y="195" as="targetPoint" />
             <mxPoint as="offset" />
