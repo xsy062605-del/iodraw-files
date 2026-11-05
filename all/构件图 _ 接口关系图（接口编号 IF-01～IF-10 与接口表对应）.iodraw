@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-33" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="sourcePoint" />
-            <mxPoint x="740" y="330" as="targetPoint" />
+            <mxPoint x="840" y="299.58" as="sourcePoint" />
+            <mxPoint x="960" y="300" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
