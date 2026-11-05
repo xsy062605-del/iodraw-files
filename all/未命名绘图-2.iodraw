@@ -14,7 +14,7 @@
           <mxGeometry x="50" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---2" value="业务/应用层框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="720" height="240" as="geometry" />
+          <mxGeometry x="290" y="380" width="750" height="240" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---8" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
           <mxGeometry y="80" width="80" height="40" as="geometry" />
