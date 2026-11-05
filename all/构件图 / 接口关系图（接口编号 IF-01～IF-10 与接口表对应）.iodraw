@@ -70,7 +70,16 @@
           <mxGeometry x="410" y="230" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/interface.svg;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="372.55" y="360" width="134.89" height="63.4" as="geometry" />
+          <mxGeometry x="410" y="377.6" width="59.99" height="28.2" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-25" value="" style="html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-26" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" source="_BLru_25Shi5_5MmZqZz-25" target="_BLru_25Shi5_5MmZqZz-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-27" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="351" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
