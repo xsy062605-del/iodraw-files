@@ -40,7 +40,7 @@
             <mxPoint x="200" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-24" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-24" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-30">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="180" as="sourcePoint" />
             <mxPoint x="439.5" y="180" as="targetPoint" />
@@ -57,7 +57,7 @@
           <mxGeometry x="715" y="200" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="435" y="200" width="10" height="250" as="geometry" />
+          <mxGeometry x="435" y="180" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-31" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-4">
           <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="445" y="210" width="10" height="250" as="geometry" />
+          <mxGeometry x="340" y="210" width="10" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
