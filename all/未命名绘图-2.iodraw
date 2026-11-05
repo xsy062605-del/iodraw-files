@@ -23,7 +23,7 @@
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---12" value="消息通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
-          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="93" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---13" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
           <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---15" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X5XfrKrcIskijDzCVs---16" value="借阅业务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
+          <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---3" value="外部服务框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="200" height="200" as="geometry" />
