@@ -115,8 +115,8 @@
         <mxCell id="_BLru_25Shi5_5MmZqZz-53" value="ICollection&lt;div&gt;(IF-05)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-54" value="ICollection&lt;div&gt;(IF-05)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="330" width="80" height="40" as="geometry" />
+        <mxCell id="_BLru_25Shi5_5MmZqZz-54" value="INotify&lt;div&gt;(IF-08,IF-09)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="965" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
