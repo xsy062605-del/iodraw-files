@@ -57,7 +57,7 @@
           <mxGeometry x="715" y="200" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="435" y="180" width="10" height="280" as="geometry" />
+          <mxGeometry x="435" y="180" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-31" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-4">
           <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
@@ -126,7 +126,7 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="235" y="160" width="10" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-62" value="borrowRecordId, dueDate" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-62" value="borrowRecordId, dueDate" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;exitX=0.668;exitY=1.491;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KV8aq0VFTlaQsDOhYwYZ-30">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
             <mxPoint x="439.0430329975329" y="460" as="sourcePoint" />
             <mxPoint x="245" y="460" as="targetPoint" />
