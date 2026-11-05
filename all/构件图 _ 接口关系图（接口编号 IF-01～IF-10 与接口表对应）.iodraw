@@ -28,6 +28,9 @@
             <mxPoint x="640" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="20" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
