@@ -134,9 +134,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="235" y="160" width="10" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-64" value="BorrowNotAllowed(无可借副本)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="0.0026" relative="1" as="geometry">
             <mxPoint x="440" y="598.75" as="sourcePoint" />
@@ -147,12 +144,15 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="435" y="180" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-65" value="显示借阅成功，应还日期" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
-          <mxGeometry x="0.0008" relative="1" as="geometry">
-            <mxPoint x="235" y="620" as="sourcePoint" />
-            <mxPoint x="70" y="620" as="targetPoint" />
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-65" value="提示“可预约”" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="620" as="sourcePoint" />
+            <mxPoint x="80" y="620" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="235" y="160" width="10" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
