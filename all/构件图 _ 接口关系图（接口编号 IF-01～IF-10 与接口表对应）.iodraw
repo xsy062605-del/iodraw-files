@@ -118,8 +118,8 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-59" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
-            <mxPoint x="850" y="370" as="sourcePoint" />
-            <mxPoint x="455" y="370" as="targetPoint" />
+            <mxPoint x="945" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="440" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
