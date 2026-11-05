@@ -86,7 +86,7 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-17" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-36" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-36" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1" source="KV8aq0VFTlaQsDOhYwYZ-3">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
             <mxPoint x="775" y="360" as="sourcePoint" />
             <mxPoint x="445" y="360" as="targetPoint" />
@@ -96,7 +96,7 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-37" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
             <mxPoint x="715" y="240" as="sourcePoint" />
-            <mxPoint x="440" y="240" as="targetPoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
