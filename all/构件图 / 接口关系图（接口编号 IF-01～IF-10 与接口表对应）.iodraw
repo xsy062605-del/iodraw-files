@@ -164,9 +164,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-64" value="使用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_BLru_25Shi5_5MmZqZz-6" target="_BLru_25Shi5_5MmZqZz-41">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="0.2102" y="-18" width="160" relative="1" as="geometry">
             <mxPoint x="440" y="290" as="sourcePoint" />
             <mxPoint x="529.21" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-65" value="使用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.2102" y="-18" width="160" relative="1" as="geometry">
+            <mxPoint x="610" y="140" as="sourcePoint" />
+            <mxPoint x="623" y="303" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
