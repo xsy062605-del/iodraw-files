@@ -59,13 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-19" value="触发逾期提醒" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_8I15lo8RqxTSxJUNqh-5" target="Q_8I15lo8RqxTSxJUNqh-8">
-          <mxGeometry x="0.1509" y="5" width="160" relative="1" as="geometry">
+          <mxGeometry x="0.6508" y="-7" width="160" relative="1" as="geometry">
             <mxPoint x="200" y="520" as="sourcePoint" />
             <mxPoint x="200" y="600" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_8I15lo8RqxTSxJUNqh-21" value="触发到书通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_8I15lo8RqxTSxJUNqh-4" target="Q_8I15lo8RqxTSxJUNqh-8">
+        <mxCell id="Q_8I15lo8RqxTSxJUNqh-21" value="触发到书通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_8I15lo8RqxTSxJUNqh-4" target="Q_8I15lo8RqxTSxJUNqh-8">
           <mxGeometry x="0.125" width="160" relative="1" as="geometry">
             <mxPoint x="145" y="610" as="sourcePoint" />
             <mxPoint x="10" y="690" as="targetPoint" />
