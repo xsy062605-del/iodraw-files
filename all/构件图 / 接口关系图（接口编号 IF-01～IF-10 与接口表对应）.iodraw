@@ -63,15 +63,6 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-26" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" source="_BLru_25Shi5_5MmZqZz-5" target="_BLru_25Shi5_5MmZqZz-39" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="345.261411162915" as="sourcePoint" />
-            <mxPoint x="281.80789497075284" y="290.65415548167545" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-31" value="ISSO&lt;div&gt;(IF-01&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="60" height="40" as="geometry" />
         </mxCell>
@@ -240,6 +231,12 @@
             <mxPoint x="1420" y="140" as="sourcePoint" />
             <mxPoint x="1467" y="303" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-76" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="550" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
