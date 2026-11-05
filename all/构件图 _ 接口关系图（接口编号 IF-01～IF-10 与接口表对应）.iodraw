@@ -53,16 +53,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-27" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-2">
-          <mxGeometry x="-0.0036" y="-10" relative="1" as="geometry">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-27" value="allowed = true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-2">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="719.5" y="240" as="sourcePoint" />
             <mxPoint x="540" y="240" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KV8aq0VFTlaQsDOhYwYZ-27">
-          <mxGeometry x="-0.025" y="-10" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
