@@ -40,6 +40,12 @@
             <mxPoint x="200" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-24" value="提交借书请求(userId, bookId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="170" as="sourcePoint" />
+            <mxPoint x="250" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
