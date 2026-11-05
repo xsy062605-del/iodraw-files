@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-1" value="校园图书借阅管理系统" style="shape=folder;fontStyle=1;tabWidth=140;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="80" width="530" height="360" as="geometry" />
+          <mxGeometry x="-760" y="90" width="530" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-2" value="统计报表" style="html=1;whiteSpace=wrap;" vertex="1" parent="Q_8I15lo8RqxTSxJUNqh-1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
