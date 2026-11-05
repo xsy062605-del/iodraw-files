@@ -7,7 +7,7 @@
         <mxCell id="X5XfrKrcIskijDzCVs---1" value="用户访问层框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="X5XfrKrcIskijDzCVs---6" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---1">
+        <mxCell id="X5XfrKrcIskijDzCVs---6" value="浏览器 / 校园门户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---1">
           <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---7" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---1">
