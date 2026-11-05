@@ -135,8 +135,8 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-63" value="借阅成功(borrowRecordId, dueDate)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="0.0026" relative="1" as="geometry">
-            <mxPoint x="450" y="470" as="sourcePoint" />
-            <mxPoint x="255" y="470" as="targetPoint" />
+            <mxPoint x="245" y="480" as="sourcePoint" />
+            <mxPoint x="50" y="480" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
