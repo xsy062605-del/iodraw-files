@@ -8,13 +8,13 @@
           <mxGeometry x="190" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-2" value="借阅业务管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="100" height="300" as="geometry" />
+          <mxGeometry x="390" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-3" value="用户与权限管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="590" y="90" width="100" height="300" as="geometry" />
+          <mxGeometry x="550" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-4" value="图书信息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="710" y="90" width="100" height="300" as="geometry" />
+          <mxGeometry x="670" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="20" height="300" as="geometry" />
@@ -24,15 +24,15 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="876.66" y="390" as="sourcePoint" />
-            <mxPoint x="876.66" y="130" as="targetPoint" />
+            <mxPoint x="836.66" y="380" as="sourcePoint" />
+            <mxPoint x="836.66" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.108534188106148;" vertex="1" parent="1">
-          <mxGeometry x="862" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="822" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-17" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="847" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="807" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-22" value="提交借书请求(userId, bookId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-1">
           <mxGeometry width="160" relative="1" as="geometry">
