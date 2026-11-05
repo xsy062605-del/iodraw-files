@@ -87,10 +87,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-25" value="被依赖的”基础模块“：&lt;div&gt;提供身份认证与权限能力&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="170" height="80" as="geometry" />
+          <mxGeometry x="90" y="440" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-26" value="被依赖的”数据提供模块“：&lt;br&gt;提供图书与馆藏数据" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="100" height="80" as="geometry" />
+          <mxGeometry x="320" y="440" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
