@@ -64,7 +64,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-21" value="ISSO&lt;div&gt;(IF-01)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="115" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="115" y="240" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-23" value="ISSO&lt;div&gt;(IF-01)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="125" y="250" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
