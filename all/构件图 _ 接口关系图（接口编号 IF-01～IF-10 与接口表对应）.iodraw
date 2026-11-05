@@ -50,10 +50,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-27" value="allowed = true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KV8aq0VFTlaQsDOhYwYZ-29" target="KV8aq0VFTlaQsDOhYwYZ-2">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-27" value="allowed = true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
-            <mxPoint x="740" y="240" as="sourcePoint" />
-            <mxPoint x="470" y="240" as="targetPoint" />
+            <mxPoint x="680.11" y="250" as="sourcePoint" />
+            <mxPoint x="400.0039393939394" y="250" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -61,7 +61,7 @@
           <mxGeometry x="715" y="200" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="435" y="200" width="10" height="150" as="geometry" />
+          <mxGeometry x="435" y="200" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-31" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-4">
           <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
@@ -95,8 +95,8 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-36" value="availableCopies, location" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
-            <mxPoint x="840" y="360" as="sourcePoint" />
-            <mxPoint x="510" y="360" as="targetPoint" />
+            <mxPoint x="775" y="360" as="sourcePoint" />
+            <mxPoint x="445" y="360" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
