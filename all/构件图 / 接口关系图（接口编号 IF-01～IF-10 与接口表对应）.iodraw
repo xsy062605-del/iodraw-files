@@ -170,7 +170,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-65" value="使用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="_BLru_25Shi5_5MmZqZz-65" value="使用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_BLru_25Shi5_5MmZqZz-10" target="_BLru_25Shi5_5MmZqZz-45">
           <mxGeometry x="0.2102" y="-18" width="160" relative="1" as="geometry">
             <mxPoint x="1100" y="210" as="sourcePoint" />
             <mxPoint x="953" y="310" as="targetPoint" />
