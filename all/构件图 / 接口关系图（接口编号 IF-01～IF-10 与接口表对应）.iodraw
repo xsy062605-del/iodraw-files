@@ -67,7 +67,10 @@
           <mxGeometry x="115" y="240" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-23" value="ISSO&lt;div&gt;(IF-01)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="125" y="250" width="85" height="40" as="geometry" />
+          <mxGeometry x="410" y="230" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/interface.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="50" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
