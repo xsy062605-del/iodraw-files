@@ -34,7 +34,7 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-17" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="767" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-22" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-22" value="提交借书请求(userId, bookId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="80" y="160" as="sourcePoint" />
             <mxPoint x="200" y="160" as="targetPoint" />
