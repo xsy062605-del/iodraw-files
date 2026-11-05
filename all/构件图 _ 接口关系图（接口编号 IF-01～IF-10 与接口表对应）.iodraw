@@ -154,6 +154,9 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="235" y="160" width="10" height="480" as="geometry" />
         </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-67" value="[ 可借用副本&amp;gt;0 ]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
