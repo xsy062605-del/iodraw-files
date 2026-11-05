@@ -79,8 +79,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_8I15lo8RqxTSxJUNqh-24" value="权限校验" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry x="-0.4316" y="11" width="160" relative="1" as="geometry">
+        <mxCell id="Q_8I15lo8RqxTSxJUNqh-24" value="权限校验" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_8I15lo8RqxTSxJUNqh-4" target="Q_8I15lo8RqxTSxJUNqh-8">
+          <mxGeometry y="-10" width="160" relative="1" as="geometry">
             <mxPoint x="30" y="610" as="sourcePoint" />
             <mxPoint x="145" y="690" as="targetPoint" />
             <mxPoint as="offset" />
