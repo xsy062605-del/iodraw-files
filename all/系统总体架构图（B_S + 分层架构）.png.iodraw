@@ -86,11 +86,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_8I15lo8RqxTSxJUNqh-25" value="Note" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="110.00000000000001" height="80" as="geometry" />
+        <mxCell id="Q_8I15lo8RqxTSxJUNqh-25" value="被依赖的”基础模块“：提供身份认证与权限能力" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q_8I15lo8RqxTSxJUNqh-26" value="Note" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="110.00000000000001" height="80" as="geometry" />
+          <mxGeometry x="320" y="440" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
