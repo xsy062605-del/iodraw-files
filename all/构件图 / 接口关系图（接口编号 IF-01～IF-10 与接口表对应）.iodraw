@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_BLru_25Shi5_5MmZqZz-3" value="用户与权限管理" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="180" height="90" as="geometry" />
+          <mxGeometry x="120" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_BLru_25Shi5_5MmZqZz-3">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
