@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-8" value="用户与权限管理" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="160" height="50" as="geometry" />
+          <mxGeometry x="720" y="70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_BLru_25Shi5_5MmZqZz-8">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
