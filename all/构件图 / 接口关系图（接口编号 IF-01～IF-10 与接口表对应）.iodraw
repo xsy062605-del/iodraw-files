@@ -95,7 +95,10 @@
           <mxGeometry x="1000" y="290" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-47" value="" style="ellipse;html=1;strokeColor=#FF120A;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="1200" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_BLru_25Shi5_5MmZqZz-48" value="" style="ellipse;html=1;strokeColor=#FF120A;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="310" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
