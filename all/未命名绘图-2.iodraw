@@ -16,8 +16,8 @@
         <mxCell id="X5XfrKrcIskijDzCVs---2" value="业务/应用层框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="600" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="X5XfrKrcIskijDzCVs---8" value="浏览器 / 校园门户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
-          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="X5XfrKrcIskijDzCVs---8" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
+          <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---3" value="外部服务框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="200" height="200" as="geometry" />
