@@ -34,7 +34,7 @@
         <mxCell id="X5XfrKrcIskijDzCVs---15" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X5XfrKrcIskijDzCVs---16" value="借阅业务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
+        <mxCell id="X5XfrKrcIskijDzCVs---16" value="用户与权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---2">
           <mxGeometry x="280" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---3" value="外部服务框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
