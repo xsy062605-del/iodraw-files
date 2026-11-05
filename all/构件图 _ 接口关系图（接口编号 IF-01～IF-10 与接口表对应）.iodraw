@@ -11,10 +11,10 @@
           <mxGeometry x="390" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-3" value="用户与权限管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="670" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-4" value="图书信息管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="670" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="790" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="20" height="300" as="geometry" />
@@ -24,15 +24,15 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="836.66" y="380" as="sourcePoint" />
-            <mxPoint x="836.66" y="120" as="targetPoint" />
+            <mxPoint x="956.66" y="380" as="sourcePoint" />
+            <mxPoint x="956.66" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.108534188106148;" vertex="1" parent="1">
-          <mxGeometry x="822" y="80" width="30" height="30" as="geometry" />
+          <mxGeometry x="942" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-17" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="807" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="927" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-22" value="提交借书请求(userId, bookId)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -51,10 +51,17 @@
             <mxPoint x="400" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-26" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-26" value="CheckPermission(userId, &quot;BORROW&quot;) [IF-03]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250" y="200" as="sourcePoint" />
-            <mxPoint x="450" y="200" as="targetPoint" />
+            <mxPoint x="440" y="210" as="sourcePoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-27" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="190" as="sourcePoint" />
+            <mxPoint x="650" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
