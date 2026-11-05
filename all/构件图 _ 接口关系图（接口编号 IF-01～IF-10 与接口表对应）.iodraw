@@ -109,6 +109,13 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-57" value="[ 可借用副本&amp;gt;0 ]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="700" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-58" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
+            <mxPoint x="454.9966666666666" y="290" as="sourcePoint" />
+            <mxPoint x="850" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
