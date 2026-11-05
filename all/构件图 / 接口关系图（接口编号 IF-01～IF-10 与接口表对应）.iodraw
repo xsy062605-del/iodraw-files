@@ -68,11 +68,6 @@
             <mxPoint x="260" y="345.261411162915" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_BLru_25Shi5_5MmZqZz-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="294" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-27" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;strokeColor=#FF120A;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="8" height="8" as="geometry" />
         </mxCell>
