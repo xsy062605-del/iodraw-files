@@ -63,26 +63,24 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-26" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="_BLru_25Shi5_5MmZqZz-5" target="_BLru_25Shi5_5MmZqZz-27" parent="1">
+        <mxCell id="_BLru_25Shi5_5MmZqZz-26" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="_BLru_25Shi5_5MmZqZz-5" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="345.261411162915" as="sourcePoint" />
+            <mxPoint x="281.80789497075284" y="290.65415548167545" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-27" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;strokeColor=#FF120A;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-31" value="ISSO&lt;div&gt;(IF-01&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="238" y="380" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-32" value="调用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.195;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_BLru_25Shi5_5MmZqZz-3" target="_BLru_25Shi5_5MmZqZz-27">
+        <mxCell id="_BLru_25Shi5_5MmZqZz-32" value="调用" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.195;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_BLru_25Shi5_5MmZqZz-3">
           <mxGeometry x="0.0128" y="-19" width="160" relative="1" as="geometry">
             <mxPoint x="370" y="210" as="sourcePoint" />
-            <mxPoint x="530" y="210" as="targetPoint" />
+            <mxPoint x="286.44" y="292.856" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="298" width="12" height="12" as="geometry" />
+          <mxGeometry x="280" y="290" width="12" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
