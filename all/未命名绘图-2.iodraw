@@ -7,7 +7,7 @@
         <mxCell id="X5XfrKrcIskijDzCVs---1" value="用户访问层框" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="X5XfrKrcIskijDzCVs---18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="X5XfrKrcIskijDzCVs---1" source="X5XfrKrcIskijDzCVs---6" target="X5XfrKrcIskijDzCVs---7">
+        <mxCell id="X5XfrKrcIskijDzCVs---19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="X5XfrKrcIskijDzCVs---1" source="X5XfrKrcIskijDzCVs---6" target="X5XfrKrcIskijDzCVs---7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X5XfrKrcIskijDzCVs---6" value="浏览器 / 校园门户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X5XfrKrcIskijDzCVs---1">
