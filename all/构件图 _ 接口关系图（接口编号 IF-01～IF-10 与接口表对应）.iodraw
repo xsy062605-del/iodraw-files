@@ -66,10 +66,17 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="435" y="200" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-31" value="CheckPermission(userId, &quot;BORROW&quot;) [IF-03]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-31" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-4">
           <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
             <mxPoint x="450" y="280" as="sourcePoint" />
             <mxPoint x="728" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-33" value="QueryCollectionStatus(bookId) [IF-05]" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0012" width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="290" as="sourcePoint" />
+            <mxPoint x="850" y="290" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
