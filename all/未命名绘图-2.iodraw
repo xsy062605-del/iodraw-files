@@ -130,6 +130,13 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X5XfrKrcIskijDzCVs---42" value="发送通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5XfrKrcIskijDzCVs---16">
+          <mxGeometry x="-0.0948" y="7" width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="675" as="sourcePoint" />
+            <mxPoint x="50" y="810" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
