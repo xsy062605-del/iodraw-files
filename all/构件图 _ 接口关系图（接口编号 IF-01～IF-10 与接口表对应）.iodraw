@@ -128,8 +128,8 @@
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-62" value="borrowRecordId, dueDate" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;startSize=8;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry x="-0.0012" relative="1" as="geometry">
-            <mxPoint x="1010" y="450" as="sourcePoint" />
-            <mxPoint x="455" y="450" as="targetPoint" />
+            <mxPoint x="439.0430329975329" y="460" as="sourcePoint" />
+            <mxPoint x="245" y="460" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
