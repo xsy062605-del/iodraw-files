@@ -115,9 +115,6 @@
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-46" value="b3: Block3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="KV8aq0VFTlaQsDOhYwYZ-43">
           <mxGeometry x="250" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-47" value="alt" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;" vertex="1" parent="KV8aq0VFTlaQsDOhYwYZ-43">
-          <mxGeometry x="20" y="90" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-48" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;endArrow=none;html=1;edgeStyle=none;dashed=1;rounded=0;" edge="1" parent="KV8aq0VFTlaQsDOhYwYZ-43" source="KV8aq0VFTlaQsDOhYwYZ-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="300" as="targetPoint" />
@@ -162,6 +159,9 @@
             <mxPoint x="70" y="290" as="sourcePoint" />
             <mxPoint x="290" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-47" value="alt" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shape=mxgraph.sysml.package;labelX=35;fontStyle=1;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
