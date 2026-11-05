@@ -45,10 +45,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-24" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-24" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1" target="KV8aq0VFTlaQsDOhYwYZ-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="190" as="sourcePoint" />
             <mxPoint x="400" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV8aq0VFTlaQsDOhYwYZ-26" value="&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;code data-index-in-node=&quot;0&quot; data-path-to-node=&quot;1,1,0,0&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;BorrowBook(userId, bookId) [IF-06]&lt;/font&gt;&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; data-path-to-node=&quot;1,1,0,1&quot;&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
