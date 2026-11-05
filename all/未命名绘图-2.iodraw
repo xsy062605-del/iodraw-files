@@ -123,11 +123,11 @@
         <mxCell id="X5XfrKrcIskijDzCVs---37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5XfrKrcIskijDzCVs---8" target="X5XfrKrcIskijDzCVs---29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X5XfrKrcIskijDzCVs---41" value="触发到书通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5XfrKrcIskijDzCVs---12" target="X5XfrKrcIskijDzCVs---17">
-          <mxGeometry x="-0.2861" y="-5" width="160" relative="1" as="geometry">
+        <mxCell id="X5XfrKrcIskijDzCVs---41" value="发送通知" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X5XfrKrcIskijDzCVs---12" target="X5XfrKrcIskijDzCVs---17">
+          <mxGeometry x="-0.0948" y="7" width="160" relative="1" as="geometry">
             <mxPoint x="20" y="650" as="sourcePoint" />
             <mxPoint x="100" y="745" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
