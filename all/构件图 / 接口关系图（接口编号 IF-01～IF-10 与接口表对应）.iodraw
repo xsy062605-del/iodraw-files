@@ -47,8 +47,8 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_BLru_25Shi5_5MmZqZz-17" value="借阅业务管理" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="70" width="159" height="60" as="geometry" />
+        <mxCell id="_BLru_25Shi5_5MmZqZz-17" value="统计报表" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BLru_25Shi5_5MmZqZz-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="_BLru_25Shi5_5MmZqZz-17">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
