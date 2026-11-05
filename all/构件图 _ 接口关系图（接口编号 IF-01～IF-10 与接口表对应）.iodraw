@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="700" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-1" value="Web前端&lt;div&gt;（用户访问层）&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="190" y="80" width="100" height="440" as="geometry" />
+          <mxGeometry x="190" y="80" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-2" value="借阅业务管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="100" height="590" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="790" y="80" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="20" height="440" as="geometry" />
+          <mxGeometry x="70" y="80" width="20" height="600" as="geometry" />
         </mxCell>
         <mxCell id="KV8aq0VFTlaQsDOhYwYZ-7" value="读者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="110" width="50" height="30" as="geometry" />
